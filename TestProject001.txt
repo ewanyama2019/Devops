@@ -1,8 +1,13 @@
-judhfhdhjkfdvk
-dnkjhffkjfgkf
-fvkfdvfdnvkfb
-fdvfdjvkdfnvf
-fvjflv
+This is a test project
+
+new code
+
+x=10
+y=56
+
+
+z=x+y
+print: (z)
 
 
 
